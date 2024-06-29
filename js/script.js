@@ -1,2 +1,2 @@
 let jenis = prompt('apakah anda wibu? (ya/tidak)')
-alert(`saya heran ternyata anda ${jenis} wibu`)
+alert(`saya heran, saya kira ternyata anda ${jenis} wibu`)
